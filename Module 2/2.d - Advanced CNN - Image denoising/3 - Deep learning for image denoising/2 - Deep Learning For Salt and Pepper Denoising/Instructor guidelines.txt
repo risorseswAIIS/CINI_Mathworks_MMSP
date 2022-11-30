@@ -1,0 +1,1 @@
+The IAPR TC-12 dataset takes time to download, consider to download it in advance running the downloadIAPRTC12Data function (with no parameter). Alternately, you can choose to use the small dataset provided (small_ds=true). This can be useful even if you wish to speed up the exercise. 

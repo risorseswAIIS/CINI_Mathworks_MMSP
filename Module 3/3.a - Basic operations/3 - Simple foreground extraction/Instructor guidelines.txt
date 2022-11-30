@@ -1,0 +1,3 @@
+Eventually, consider using your own video. To do this, in the second section simply set the value of selected_video variable to the path of your video file.
+
+Please note that using the Package for USB Webcams (https://www.mathworks.com/help/supportpkg/usbwebcams/index.html), the functions implemented in this live script can be easily modified to visualize the live stream acquired by your device.

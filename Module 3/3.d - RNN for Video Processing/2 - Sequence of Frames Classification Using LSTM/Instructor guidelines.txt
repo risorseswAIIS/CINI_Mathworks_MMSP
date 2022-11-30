@@ -1,0 +1,5 @@
+The HMBD51 dataset takes time to download, consider to download it in advance running the downloadHMBD51 script. Do not forget to unrar the downloaded file into the running folder.
+Alternately, you can choose to not download it (downloadDS=false) and use a small version of this dataset. This can be useful even if you wish to speed up the exercise. 
+
+The pre-trained netLSTM file can be downloaded from https://bit.ly/3Sd6JGc
+
